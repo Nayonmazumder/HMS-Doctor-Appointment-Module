@@ -6,13 +6,13 @@
     <img src="static/img/logo.png" alt="Logo"  height="80">
   </a>
 
-  <h3 align="center">Hospital Management</h3>
+  <h3 align="center">HMS- DOCTOR APPOINTMENT BOOKING </h3>
 
   <p align="center">
-    Hospital Management Django Website
+    HMS- DOCTOR APPOINTMENT BOOKING MODULE (USING DJANGO)
     <br/>
     <br/>
-    <a href="https://github.com/Nayonmazumder/HMS-Doctor-Appointment-Module">View Demo</a>
+    <a href="https://hms-doctor-appointment-module.onrender.com">View Demo</a>
     .
     <a href="https://github.com/Nayonmazumder/HMS-Doctor-Appointment-Module/issues">Report Bug</a>
     .
@@ -118,7 +118,7 @@ python manage.py runserver
 5. Explore the features, including blog management, appointment scheduling, and more.
 
 ## Live Demo
-Check Website Online here : [HMS-Doctor Appointment Module](#)
+Check Website Online here : [HMS-Doctor Appointment Module](https://hms-doctor-appointment-module.onrender.com)
 
 
 ## Conception
