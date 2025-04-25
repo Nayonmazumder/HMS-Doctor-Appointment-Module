@@ -1,4 +1,4 @@
-# Hospital Management 
+# HMS- DOCTOR APPOINTMENT BOOKING MODULE 
 
 <br/>
 <p align="center">
